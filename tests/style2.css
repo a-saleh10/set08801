@@ -1,0 +1,18 @@
+h1 {
+  font-size: 60px;
+  text-align: center;
+}
+
+/* comment is inserted here */
+
+p,
+li {
+  font-size: 16px;
+  line-height: 2;
+  letter-spacing: 1px;
+}
+
+.special {
+  color: orange;
+  font-weight: bold
+}
